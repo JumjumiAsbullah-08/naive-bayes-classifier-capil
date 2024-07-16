@@ -1,3 +1,20 @@
+Lisensi
+Proyek ini dilisensikan di bawah MIT License.
+
+Logo dan Lisensi
+PHP: 
+ (Lisensi: PHP License)
+CSS: 
+ (Lisensi: W3C Software Notice and License)
+SCSS: 
+ (Lisensi: MIT License)
+JavaScript: 
+ (Lisensi: MIT License)
+HTML: 
+ (Lisensi: WHATWG HTML License)
+Naive Bayes: 
+ (Referensi: Naive Bayes Classifier)
+
 ## Naive Bayes Classifier untuk Klasifikasi Karyawan
 Ini adalah implementasi sederhana dari Naive Bayes Classifier untuk klasifikasi karyawan berdasarkan data training yang diberikan. Proyek ini menggunakan PHP untuk logika aplikasi dan MySQL sebagai database penyimpanan data.
 
