@@ -1,19 +1,11 @@
 Lisensi
 Proyek ini dilisensikan di bawah MIT License.
-
-Logo dan Lisensi
-PHP: 
- (Lisensi: PHP License)
-CSS: 
- (Lisensi: W3C Software Notice and License)
-SCSS: 
- (Lisensi: MIT License)
-JavaScript: 
- (Lisensi: MIT License)
-HTML: 
- (Lisensi: WHATWG HTML License)
-Naive Bayes: 
- (Referensi: Naive Bayes Classifier)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Naive Bayes](https://img.shields.io/badge/-Naive%20Bayes-0495F2?style=flat-square)
 
 ## Naive Bayes Classifier untuk Klasifikasi Karyawan
 Ini adalah implementasi sederhana dari Naive Bayes Classifier untuk klasifikasi karyawan berdasarkan data training yang diberikan. Proyek ini menggunakan PHP untuk logika aplikasi dan MySQL sebagai database penyimpanan data.
