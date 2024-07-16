@@ -10,7 +10,7 @@ Menghitung probabilitas prior dari data training.
 Menghitung likelihood untuk setiap sub-kriteria berdasarkan kategori "Naik" dan "Tidak Naik".
 Menggunakan hasil Naive Bayes untuk menghitung posterior dan menyimpannya di database.
 Melakukan evaluasi menggunakan confusion matrix untuk mengukur akurasi, presisi, recall, dan F1 score dari klasifikasi.
-###Setup Proyek
+## Setup Proyek
 1. Prasyarat:
    Pastikan Anda memiliki PHP dan MySQL terinstal di lingkungan pengembangan Anda.
    Buatlah database MySQL dan importlah skema dari file database_schema.sql.
@@ -20,11 +20,11 @@ Melakukan evaluasi menggunakan confusion matrix untuk mengukur akurasi, presisi,
    Akses aplikasi melalui web browser dengan mengarahkan ke direktori tempat file ini disimpan.
 
 ## Struktur Proyek
-index.php: Halaman utama untuk login dan verifikasi peran pengguna.
-klasifikasi.php: Halaman untuk menginisiasi perhitungan Naive Bayes dan menampilkan hasilnya.
-koneksi.php: File untuk mengelola koneksi ke database MySQL.
-training_data.sql: Contoh data training untuk digunakan dalam aplikasi.
-README.md: Dokumen ini, memberikan penjelasan singkat tentang proyek.
+index.php: Halaman utama untuk login dan verifikasi peran pengguna. <br>
+klasifikasi.php: Halaman untuk menginisiasi perhitungan Naive Bayes dan menampilkan hasilnya. <br>
+koneksi.php: File untuk mengelola koneksi ke database MySQL. <br>
+training_data.sql: Contoh data training untuk digunakan dalam aplikasi. <br>
+README.md: Dokumen ini, memberikan penjelasan singkat tentang proyek. <br>
 
 Kontribusi
 Anda dipersilakan untuk berkontribusi pada proyek ini dengan cara melakukan fork, membuat perubahan, dan mengirimkan pull request. Jika Anda menemukan masalah atau memiliki saran perbaikan, buka Issue baru di repositori ini.
