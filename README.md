@@ -35,5 +35,8 @@ koneksi.php: File untuk mengelola koneksi ke database MySQL. <br>
 training_data.sql: Contoh data training untuk digunakan dalam aplikasi. <br>
 README.md: Dokumen ini, memberikan penjelasan singkat tentang proyek. <br>
 
-Kontribusi
+## Kontribusi
 Anda dipersilakan untuk berkontribusi pada proyek ini dengan cara melakukan fork, membuat perubahan, dan mengirimkan pull request. Jika Anda menemukan masalah atau memiliki saran perbaikan, buka Issue baru di repositori ini.
+
+## Kontak Saya
+E-Mail : jumjumiasbullah8@gmail.com
