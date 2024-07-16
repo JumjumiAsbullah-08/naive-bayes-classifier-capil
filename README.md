@@ -1,5 +1,5 @@
 Lisensi
-Proyek ini dilisensikan di bawah MIT License.
+Proyek ini dilisensikan di bawah MIT License. <br>
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
